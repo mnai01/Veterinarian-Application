@@ -46,6 +46,6 @@ Graphical UI Tabs:
   1. Exits GUI and brings you back to console menu
   
 ![MainMenu](Images/UI.JPG)
-![MainMenuData](Images/UIData.JPG)
-![ListPage](Images/UIData2.JPG)
+![MainMenuData](Images/UIwithData.JPG)
+![ListPage](Images/UIwithData2.JPG)
   
